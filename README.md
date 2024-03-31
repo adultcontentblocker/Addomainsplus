@@ -1,2 +1,2 @@
-# AdDomains+
+# Addomains+
 Blocks unblocked Ad domains
